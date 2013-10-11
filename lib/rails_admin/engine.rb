@@ -1,4 +1,4 @@
-require 'bootstrap-sass'
+#require 'bootstrap-sass'
 require 'font-awesome-rails'
 require 'jquery-rails'
 require 'jquery-ui-rails'
