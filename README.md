@@ -15,7 +15,7 @@
 [pledgie]: http://www.pledgie.com/campaigns/15917
 [flattr]: http://flattr.com/thing/799416/sferikrailsadmin-on-GitHub
 
-RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
+RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data. This version of RailsAdmin doesn't require bootstrap-sass gem.
 
 ## Announcements
 ### [Action required] Security issue
